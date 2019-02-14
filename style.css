@@ -3,7 +3,14 @@ body {
   font-size: 12pt;
 }
 
-h1 {
-  color: grey;
-  font-size: 100%;
+div.table {
+  display: table;
+}  
+
+div.row {
+  display: table-row;
+}
+
+div.cell {
+  display: table-cell;
 }
