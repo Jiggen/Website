@@ -13,4 +13,8 @@ div.row {
 
 div.cell {
   display: table-cell;
+  border: 1px solid black;
+  width: 200px;
+  padding: 5px;
+  text-align: center;
 }
