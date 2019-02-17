@@ -39,6 +39,6 @@ ul.menu li a {
 }
 
 ul.menu li a:hover {
-  color: lightgrey;
+  color: white;
   background-color: black;
 }
