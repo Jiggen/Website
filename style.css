@@ -1,20 +1,44 @@
+:root {
+  --menuheight: 40px;
+}
+
 body {
   font-family: helvetica;
   font-size: 12pt;
+  margin: 0;
 }
 
-div.table {
-  display: table;
-}  
-
-div.row {
-  display: table-row;
+a {
+  color: black;
+  text-decoration: none;
 }
 
-div.cell {
-  display: table-cell;
-  border: 1px solid black;
-  width: 200px;
-  padding: 5px;
+a:visited {
+  color: grey;
+}
+
+ul.menu {
+  list-style-type: none;
+  margin: none;
+  padding: none;
+  width: 100%;
+}
+
+ul.menu li {
+  float: left;
+  width: 33.3%;
+}
+
+ul.menu li a {
+  display: block;
+  height: var(--menuheight);
+  background-color: lightgrey;
   text-align: center;
+  line-height: var(--menuheight);
+  border: 1px solid white;
+}
+
+ul.menu li a:hover {
+  color: lightgrey;
+  background-color: black;
 }
