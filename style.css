@@ -29,6 +29,12 @@ ul.menu li {
   width: 33.3%;
 }
 
+ul.menu:after {
+  display: table;
+  content: "";
+  clear: both;
+}
+
 ul.menu li a {
   display: block;
   height: var(--menuheight);
