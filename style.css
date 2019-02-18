@@ -48,3 +48,23 @@ ul.menu li a:hover {
   color: white;
   background-color: black;
 }
+
+div.dropdown {
+  display: inline-block;
+  position: relative;
+  border-bottom: 1px dotted grey;
+}
+
+div.dropdown .dropdowncontent {
+  position: absolute;
+  z-index: 1;
+  display: none;
+  background-color: lightgrey;
+  padding: 5px;
+  width: 80px;
+  text-align: center;
+}
+
+div.dropdown:hover .dropdowncontent {
+  display: block;
+}
