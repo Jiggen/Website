@@ -1,15 +1,71 @@
 :root {
+  font-family: helvetica;
+  font-size: 12pt;
+  /*https://www.htmlcsscolor.com/hex/3D4849*/
+  --darkestgrey: #3D4849;
+  --lightestgrey: #E5E7E7;
+  --pageheight: 1000px;
   --menuheight: 40px;
 }
 
 body {
-  font-family: helvetica;
-  font-size: 12pt;
   margin: 0;
 }
 
+header {
+  display: block;
+  width: 100%;
+  height: 120px;
+  background-color: var(--darkestgrey);
+}
+
+nav {
+  display: block;
+}
+
+.asideone {
+  display: block;
+  width: 16.66%;
+  height: var(--pageheight);
+  margin: 1px;
+  background-color: var(--lightestgrey);
+}
+
+section {
+  display: block;
+  box-sizing: border-box;
+  width: 66%;
+  height: var(--pageheight);
+  margin: 1px;
+}
+
+.asidetwo {
+  display: block;
+  width: 16.66%;
+  height: var(--pageheight);
+  margin: 1px;
+  background-color: var(--lightestgrey);
+}
+
+.asideone, section, .asidetwo {
+  float: left;
+}
+
+.content::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  height: 60px;
+  background-color: var(--darkestgrey);
+}
+
 a {
-  color: black;
+  color: var(--darkestgrey);
   text-decoration: none;
 }
 
@@ -30,7 +86,7 @@ ul.menu li {
 }
 
 ul.menu:after {
-  display: table;
+  display: block;
   content: "";
   clear: both;
 }
@@ -38,7 +94,7 @@ ul.menu:after {
 ul.menu li a {
   display: block;
   height: var(--menuheight);
-  background-color: lightgrey;
+  background-color: var(--lightestgrey);
   text-align: center;
   line-height: var(--menuheight);
   border: 1px solid white;
@@ -46,20 +102,20 @@ ul.menu li a {
 
 ul.menu li a:hover {
   color: white;
-  background-color: black;
+  background-color: var(--darkestgrey);
 }
 
 div.dropdown {
   display: inline-block;
   position: relative;
-  border-bottom: 1px dotted grey;
+  border-bottom: 1px dotted var(--darkestgrey);
 }
 
 div.dropdown .dropdowncontent {
   position: absolute;
   z-index: 1;
   display: none;
-  background-color: lightgrey;
+  background-color: var(--lightestgrey);
   padding: 5px;
   width: 80px;
   text-align: center;
