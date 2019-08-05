@@ -1,0 +1,42 @@
+body {
+  position: relative;
+  font-family: verdana;
+  font-size: 12pt;
+  margin: 0;
+}
+
+div.background img {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  object-fit: cover;
+  filter: opacity(20%);
+}
+
+header {
+  padding: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: rgba(50, 50, 50, 0.1);
+}
+
+section a {
+  display: block;
+  padding: 20px;
+  margin-left: 40px;
+  text-decoration: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: darkgrey;
+}
+
+a:hover {
+  color: grey;
+}
+
+
