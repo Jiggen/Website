@@ -38,9 +38,44 @@ header span#story {
   font-size: 200%;
 }
 
+div.divider {
+  z-index: 2;
+  padding: 20px;
+  margin: 50px 0;
+  background-color: rgba(50, 50, 50, 0.15);
+  text-align: center;
+  font-weight: bold;
+}
+
 p {
   text-indent: 30px;
   padding: 0 40px;
+}
+
+div.questions {
+  text-align: center;
+}
+
+div.questions button {
+  background-color: rgba(50, 50, 50, 0.15);
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+div.questions button:hover {
+  color: white;
+  background-color: rgba(50, 50, 50, 0.35);
+}
+
+div#questions1, div#questions2, div#questions3 {
+  text-indent: 30px;
+  padding: 0 40px;
+  font-weight: bold;
+  transition: transform 0.3s;
+  transform: scale(1, 0);
 }
 
 #background img {
