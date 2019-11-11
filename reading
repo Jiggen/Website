@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>Short Stories for Reading</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Robert Beaton">
+    <meta name="description" content="Short stories for EAL reading practice">
+    <meta name="keywords" content="EAL">
+    <link rel="stylesheet" type="text/css" href="menustyle.css">
+  </head>
+  
+  <body>
+    
+    <div class="background"><img src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/50/2018/11/06110356/hero.jpg" alt="background" />
+    </div>
+    
+    <header>
+      Short Stories for Reading
+    </header>
+    
+    <nav>
+      
+    </nav>
+    
+    <section>
+    <a href="https://Jiggen.github.io/Website/thethreesnakeleaves.html" title="Story of an Hour" target="_blank">The Three Snake Leaves</a>
+    </section>
+    
+  </body>
+  
+</html>
