@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>The Three Snake Leaves</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  
+  <body>
+    
+    <div id="format">
+    
+    <div id="background">
+      <img src="https://images.pexels.com/photos/1148399/pexels-photo-1148399.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="Background" />
+      </div>
+    
+    <section>
+      
+      <header>
+        <span id="story">The Three Snake Leaves</span>
+          <br /><br />
+        <span id="writer"><a href="https://easystoriesinenglish.com/leaves/" target="_blank">Original Article</a></span>
+      </header>
+
+      <p>Once there was a poor man with a son. The man could not look after his son anymore, so the son said to him, ‘Dear father. Things are bad here, and you have to work hard to look after me. Let me leave, and I will look after myself.’</p>
+
+      <p>The father agreed, and said goodbye to his son.</p>
+
+      <p>At that time, the King was at war, so the young man went to war. He was strong and fast, and did good work. The King wanted to thank him for his work. So he gave him much money, and said that he could marry his daughter.</p>
+
+      <p>The problem was, the King’s daughter was very strange. She said that she would only marry someone if they made a promise.</p>
+
+      <p>‘If I die before you, and I am buried, you must be buried alive with me.’</p>
+
+      <p>When the young man asked her why this was, she said, ‘If you love me so much, you will not want to live afterwards. That is true love. Of course, if you die first, I will be buried alive with you.’</p>
+
+      <p>This strange promise had stopped everyone else from marrying her, but the young man thought she was so beautiful that he didn’t mind. Anyway, he had fought hard in the war, and he was probably going to die first.</p>
+
+      <p>So he made the promise, and the two were married. For a while, they lived happily together, but one day the new Queen got ill. She had a strange illness that nobody had seen before. The young man, now the King, called all the doctors in the country to see her, but none of them could help her.</p>
+
+      <p>Finally, she died, and the young King remembered his promise.</p>
+
+      <p>‘I don’t want to be buried alive!’ he said.</p>
+
+      <p>But he kept his promises, so he joined her in the mausoleum. He told all his men, ‘If I try to leave, stop me.’</p>
+
+      <p>So they took the King into the mausoleum and locked the door behind him.</p>
+
+      <div class="questions">
+        <button onclick="show_question(1)">Questions</button>
+      </div>
+      
+      <div id="questions1">
+        <p>(1) text?</p>
+        <p>(2) text?</p>
+        <p>(3) text?</p>
+      </div>
+      
+      <div class="divider"></div>
+      
+      <p>Next to the Queen’s body there was a table with four loaves of bread and four bottles of wine. When these ran out, the King would die of hunger. So every day he ate just a little piece of bread and drank just a little bit of wine, but still every day he felt death come nearer.</p>
+
+      <p>One day, a snake came into the mausoleum. It went up to the Queen’s dead body. The King thought the snake wanted to eat her, so he took his sword and said, ‘You will not hurt her!’ and cut the snake into three pieces.</p>
+
+      <p>A few hours later another snake came in, and when it saw the dead snake, it left again. A few minutes later it came back with three green leaves in its mouth. It put one leaf on each piece of the snake. Suddenly, the three pieces of the snake joined together again, and the snake was alive. The two snakes ran away and left the King alone.</p>
+
+      <p>They left the leaves there, and the King had an idea. If the leaves could bring a snake back to life, could they work on a person?</p>
+
+      <p>So he picked up the leaves and took them to his dead wife. He put one leaf on her mouth and the other two on her eyes. Suddenly, she moved and sat up, and said, ‘Where am I?’</p>
+
+      <p>‘My dear wife! You are with me.’</p>
+
+      <p>‘But I was dead…’</p>
+
+      <p>‘You were dead, and I brought you back to life.’</p>
+
+      <p>He explained the leaves, but his wife did not seem happy.</p>
+
+      <p>‘So you didn’t want to die with me.’</p>
+
+      <p>‘Nobody wants to die,’ said the King.</p>
+
+      <p>‘You said you would die with me, if I died. You made a promise.’</p>
+
+      <p>The King couldn’t understand. She was alive again, and they should be happy.</p>
+
+      <p>‘It doesn’t matter,’ she said, and she went and banged on the door of the mausoleum. ‘I’m alive!’ she shouted, but she didn’t sound very happy about it.</p>
+
+      <div class="questions">
+        <button onclick="show_question(2)">Questions</button>
+      </div>
+      
+      <div id="questions2">
+        <p>(1) text?</p>
+        <p>(2) text?</p>
+        <p>(3) text?</p>
+      </div>
+      
+      <div class="divider"></div>
+      
+      <p>The King’s men came and opened the door. They were very surprised that the Queen was alive, but they were mostly very happy. The King took the snake leaves with him and gave them to a man who worked for him.</p>
+
+      <p>‘Keep these safe, and bring them everywhere. You never know when they will be useful!’</p>
+
+      <p>Over the next few months, the Queen became colder and colder. She seemed to hate the King, but he could not understand why. Whenever he asked her, she just said, ‘You should know,’ so finally he stopped asking.</p>
+
+      <p>But still, because the Queen was so cold and sad, the whole castle felt sad. So, one day, the King decided to go and visit his father-in-law, the old King. It was a long journey by sea. While they were on the ship, the Queen fell in love with the captain. So one night, while the King was sleeping, she called in the captain. They picked up the King, carried him upstairs, and threw him into the sea.</p>
+
+      <p>When they had finished, she said, ‘Let us go home. We will say that he died on the way. I will tell my father how wonderful you are, and he will marry us.’</p>
+  
+      <p>But someone had seen what they did. It was the King’s man, who looked after his snake leaves. So he took out a boat and rowed after the King, while the Queen and the captain went home. He pulled the dead King out of the water and put the snake leaves on his mouth and eyes. For a few minutes, nothing happened, and then the King woke up, gasping for breath.</p>
+      
+      <p>‘I can’t believe she did that to me! Where is she now?’</p>
+
+      <p>‘My King,’ said the man. ‘They are going to her father, and she will tell him that you are dead.’</p>
+      
+<p>‘Then we must go after them!’ said the King.</p>
+      
+<p>They rowed with all their strength. They rowed through the day and night. They rowed so quickly that they got to the old King before the Queen and the captain. He was surprised that they were alone, and asked what happened. When they explained what his daughter had done, he said, ‘I cannot believe that she has done this. Let us find out the truth.’</p>
+
+      <p>So the King and his man went into the next room and listened. Soon the ship arrived, and the Queen came straight to her father with the captain.</p>
+
+      <div class="questions">
+        <button onclick="show_question(3)">Questions</button>
+      </div>
+      
+      <div id="questions3">
+        <p>(1) text?</p>
+        <p>(2) text?</p>
+        <p>(3) text?</p>
+      </div>
+      
+      <div class="divider"></div>
+      
+<p>‘Why are you alone?’ he asked. ‘Where is your husband?’</p>
+
+      <p>‘Oh, dear father,’ she said, ‘I am so sad! He has died. He became ill during the journey, you see, and he died. His body was dangerous. If we kept the body, we would be ill, too. So we threw the body into the sea. Oh, it is so sad!’</p>
+      
+<p>The old King stood up and said, ‘Well, let me bring the dead back to life!’</p>
+      
+<p>He clapped his hands, and the two men came from the other room. When the woman saw her husband, she could not believe it.</p>
+      
+<p>‘You did not die this time, either! You just want to live, live, live. When will you let me live?!’</p>
+      
+<p>The old King said, ‘He was ready to die with you, and he came back to life, but you killed him while he slept. This cannot be.’</p>
+      
+<p> ‘Wait, father,’ said the young King. He looked at his wife. ‘I still don’t understand. Why did you do this?’</p>
+      
+<p>She started crying. ‘I told you! You were going to die with me… but you couldn’t. You didn’t want to. I thought you would love me forever. Don’t you understand? When you brought me back to life, my love for you died.’</p>
+      
+<p>‘And when you killed me, my love for you died.’</p>
+      
+<p>The King felt very sad, but he could not let his wife live. They put her on a boat with many holes. The boat went out to sea, and because of the holes, it went slowly under the water, and the Queen died just like the King had.</p>
+      
+      <p>The King threw the snake leaves into the sea and went home.</p>
+      
+      <div class="questions">
+        <button onclick="show_question(4)">Questions</button>
+      </div>
+      
+      <div id="questions4">
+        <p>(1) text?</p>
+        <p>(2) text?</p>
+        <p>(3) text?</p>
+      </div>
+      
+    </section>
+    
+    </div>
+      
+  </body>
+  
+</html>
