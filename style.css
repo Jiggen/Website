@@ -70,7 +70,7 @@ div.questions button:hover {
   background-color: rgba(50, 50, 50, 0.35);
 }
 
-div#questions1, div#questions2, div#questions3, div#questions4 {
+div#questions1, div#questions2, div#questions3, div#questions4, div#questions5 {
   text-indent: 30px;
   padding: 0 40px;
   font-weight: bold;
